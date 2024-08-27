@@ -4,7 +4,7 @@
 #' ---
 
 
-#### Prepare the data from GMGC search for analysis ####
+#### Prepare the data from the GMGC search for analysis ####
 # Check working directory
 getwd()
 
